@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1304-longest-happy-string) |
 ## Greedy
 |  |
@@ -21,4 +22,5 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0670-maximum-swap) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
