@@ -10,6 +10,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1304-longest-happy-string) |
@@ -29,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
