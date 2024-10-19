@@ -7,6 +7,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
