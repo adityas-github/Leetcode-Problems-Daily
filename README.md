@@ -40,6 +40,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,11 +85,13 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -106,6 +110,7 @@
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
