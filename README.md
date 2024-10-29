@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0605-can-place-flowers) |
@@ -85,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
