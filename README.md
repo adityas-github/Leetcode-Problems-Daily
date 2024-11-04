@@ -14,6 +14,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2580-circular-sentence) |
+| [3451-string-compression-iii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3451-string-compression-iii) |
 ## Greedy
 |  |
 | ------- |
