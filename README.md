@@ -5,6 +5,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
 | ------- |
