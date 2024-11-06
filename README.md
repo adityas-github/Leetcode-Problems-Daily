@@ -53,6 +53,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
 | ------- |
