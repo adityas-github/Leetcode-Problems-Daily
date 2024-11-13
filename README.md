@@ -56,6 +56,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
@@ -66,6 +67,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
@@ -162,6 +165,7 @@
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
