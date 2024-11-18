@@ -51,6 +51,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1755-defuse-the-bomb](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
 |  |
