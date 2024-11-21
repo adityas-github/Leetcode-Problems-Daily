@@ -56,6 +56,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
