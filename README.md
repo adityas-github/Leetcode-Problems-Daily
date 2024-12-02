@@ -11,6 +11,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2580-circular-sentence) |
@@ -85,6 +86,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
 |  |
 | ------- |
