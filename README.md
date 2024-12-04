@@ -17,6 +17,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3451-string-compression-iii) |
 ## Greedy
@@ -92,6 +93,7 @@
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Backtracking
 |  |
 | ------- |
