@@ -65,6 +65,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1755-defuse-the-bomb](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2089-maximum-matrix-sum) |
@@ -217,6 +218,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
