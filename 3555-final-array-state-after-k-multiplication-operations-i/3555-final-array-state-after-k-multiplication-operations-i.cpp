@@ -1,21 +1,22 @@
 class Solution {
 public:
-int indexFind(vector<int>v){
-    int mini = v[0];
-    int indx = 0;
-    for(int i=0;i<v.size();i++){
-        if(v[i]<mini){
-            indx = i;
-            mini = v[i];
-        }
-    }
-    return indx;
-}
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-       while(k--){
-        int index = indexFind(nums);
-        nums[index] = multiplier * nums[index]; 
-       } 
-       return nums;
+        int n = nums.size();
+        priority_queue<pair<int, int>, vector<pair<int, int>>,
+                       greater<pair<int, int>>>
+            minHeap;
+
+        for (int i = 0; i < n; i++) {
+            minHeap.push({nums[i], i});
+        }
+
+        while (k) {
+            auto [value, index] = minHeap.top();
+            nums[index] = nums[index] * multiplier;
+            minHeap.pop();
+            minHeap.push({nums[index], index});
+            k--;
+        }
+        return nums;
     }
 };
