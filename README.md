@@ -14,6 +14,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1894-merge-strings-alternately](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2580-circular-sentence) |
@@ -111,6 +112,7 @@
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2414-move-pieces-to-obtain-a-string) |
