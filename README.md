@@ -48,6 +48,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
@@ -100,6 +101,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3427-special-array-ii) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3427-special-array-ii) |
 ## String Matching
@@ -325,4 +329,16 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2868-continuous-subarrays) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
