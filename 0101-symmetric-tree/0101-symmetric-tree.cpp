@@ -6,23 +6,29 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    bool helper(TreeNode* left, TreeNode* right) {
-        if (left==NULL && right==NULL) {
+        bool isSymmetric(TreeNode* root) {
+        if (!root) {
             return true;
         }
-        if (left==NULL || right==NULL) {
+
+        bool res = isMirrored(root->left, root->right);
+        root->left  = nullptr;
+        root->right = nullptr;
+        
+        return res;
+        }
+
+    bool isMirrored(TreeNode* left, TreeNode* right) {
+        if (!left && !right) {
+            return true;
+        } else if (!left || !right) {
             return false;
         }
-        return (left->val == right->val) && helper(left->left, right->right) &&
-               helper(left->right, right->left);
-    }
-    bool isSymmetric(TreeNode* root) {
-        return helper(root->left, root->right);
+        return (left->val == right->val) && isMirrored(left->left, right->right) &&     isMirrored(right->left, left->right);
     }
 };
