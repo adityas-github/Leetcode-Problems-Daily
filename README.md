@@ -68,6 +68,7 @@
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0605-can-place-flowers) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1063-best-sightseeing-pair](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1063-best-sightseeing-pair) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
