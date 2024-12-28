@@ -67,6 +67,7 @@
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
+| [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0787-sliding-puzzle) |
@@ -126,6 +127,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
