@@ -68,6 +68,7 @@
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -305,6 +306,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3427-special-array-ii) |
