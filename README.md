@@ -8,6 +8,7 @@
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0812-rotate-string) |
+| [0961-long-pressed-name](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1304-longest-happy-string) |
@@ -122,6 +123,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
+| [0961-long-pressed-name](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1894-merge-strings-alternately) |
