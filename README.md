@@ -9,6 +9,7 @@
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [0961-long-pressed-name](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
@@ -82,6 +83,7 @@
 | [0787-sliding-puzzle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -202,6 +204,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
+| [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
