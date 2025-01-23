@@ -93,6 +93,7 @@
 | [1063-best-sightseeing-pair](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -249,6 +250,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -291,6 +293,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -307,6 +310,7 @@
 | [0542-01-matrix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
@@ -343,6 +347,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -424,4 +429,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
