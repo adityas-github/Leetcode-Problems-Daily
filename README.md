@@ -250,6 +250,7 @@
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1876-map-of-highest-peak) |
@@ -293,6 +294,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
@@ -393,6 +395,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
 | [2201-valid-arrangement-of-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -436,6 +439,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
