@@ -72,6 +72,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
@@ -115,6 +116,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2465-shifting-letters-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -226,6 +228,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -357,6 +360,7 @@
 | [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
