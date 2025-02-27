@@ -66,6 +66,7 @@
 ## Database
 |  |
 | ------- |
+| [1161-project-employees-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1390-average-selling-price) |
 ## Math
 |  |
