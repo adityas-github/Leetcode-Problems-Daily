@@ -74,6 +74,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
