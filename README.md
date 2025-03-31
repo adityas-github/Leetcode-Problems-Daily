@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0009-palindrome-number) |
 | [0670-maximum-swap](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
