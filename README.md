@@ -149,6 +149,7 @@
 | [3429-special-array-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Tree
 |  |
 | ------- |
