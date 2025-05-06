@@ -114,6 +114,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
+| [2048-build-array-from-permutation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2048-build-array-from-permutation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2692-take-gifts-from-the-richest-pile) |
