@@ -1,7 +1,9 @@
 class Solution {
+private:
+        int mod = 1000000007;
 public:
     int lengthAfterTransformations(string s, int t) {
-        int ans = 0, mod = 1000000007;
+        int ans = 0;
         vector<int>c(26);
         for(char ch:s){
             ++c[ch-'a'];
