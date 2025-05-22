@@ -88,6 +88,7 @@
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
@@ -315,6 +316,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3291-find-if-array-can-be-sorted) |
+| [3859-maximum-product-of-two-digits](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Tree
 |  |
 | ------- |
