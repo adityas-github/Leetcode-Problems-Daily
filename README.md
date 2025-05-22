@@ -87,6 +87,7 @@
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
