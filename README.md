@@ -98,6 +98,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -494,6 +496,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
