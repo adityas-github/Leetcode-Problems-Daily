@@ -129,6 +129,7 @@
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
 | [2048-build-array-from-permutation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2089-maximum-matrix-sum) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
