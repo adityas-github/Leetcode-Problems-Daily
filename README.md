@@ -39,6 +39,7 @@
 | [3451-string-compression-iii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -92,6 +93,7 @@
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3859-maximum-product-of-two-digits](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -279,6 +281,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -413,6 +416,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
