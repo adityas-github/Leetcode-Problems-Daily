@@ -25,6 +25,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2465-shifting-letters-ii) |
@@ -243,6 +244,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
