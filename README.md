@@ -139,6 +139,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2358-number-of-ways-to-split-array) |
@@ -187,6 +188,7 @@
 | [1894-merge-strings-alternately](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
