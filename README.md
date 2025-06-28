@@ -67,6 +67,7 @@
 | [1304-longest-happy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -138,6 +139,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -272,6 +274,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2448-count-number-of-bad-pairs) |
@@ -326,6 +329,7 @@
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2554-minimum-total-distance-traveled) |
