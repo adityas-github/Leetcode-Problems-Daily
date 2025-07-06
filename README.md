@@ -134,6 +134,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1972-rotating-the-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2089-maximum-matrix-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -273,6 +274,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
@@ -522,4 +524,8 @@
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
