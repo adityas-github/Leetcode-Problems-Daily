@@ -60,6 +60,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -452,6 +454,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
 |  |
 | ------- |
