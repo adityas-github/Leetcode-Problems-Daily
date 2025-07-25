@@ -62,6 +62,7 @@
 | [2716-prime-subtraction-operation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -296,6 +298,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
