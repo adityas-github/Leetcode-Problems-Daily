@@ -306,6 +306,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0684-redundant-connection) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0988-flip-equivalent-binary-trees) |
