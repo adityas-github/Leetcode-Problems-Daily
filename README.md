@@ -107,6 +107,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0238-product-of-array-except-self) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
