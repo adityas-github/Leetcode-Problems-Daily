@@ -305,6 +305,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -318,6 +319,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -357,6 +359,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -369,6 +372,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
