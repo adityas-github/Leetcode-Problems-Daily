@@ -107,6 +107,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0228-summary-ranges) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0542-01-matrix) |
@@ -545,4 +547,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
