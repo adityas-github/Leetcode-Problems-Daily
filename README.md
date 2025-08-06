@@ -9,6 +9,7 @@
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [0961-long-pressed-name](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -194,6 +195,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -257,6 +259,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2232-adding-spaces-to-a-string) |
@@ -268,6 +271,7 @@
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0874-backspace-string-compare) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
