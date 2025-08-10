@@ -91,6 +91,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0009-palindrome-number) |
 | [0670-maximum-swap](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0670-maximum-swap) |
+| [0900-reordered-power-of-2](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2050-count-good-numbers) |
@@ -227,6 +228,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -282,6 +284,7 @@
 | [0001-two-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -347,6 +350,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -442,6 +446,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
