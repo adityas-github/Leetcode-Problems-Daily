@@ -1,11 +1,13 @@
-def digitCount(n):
-    count = [0] * 10
-    for digit in str(n):
-        count[int(digit)] += 1
-    return tuple(count)
-
-class Solution(object):
-    power_signatures = set(digitCount(1 << i) for i in range(30))
-
-    def reorderedPowerOf2(self, n):
-        return digitCount(n) in self.power_signatures
+class Solution:
+    def reorderedPowerOf2(self, n: int) -> bool:
+        signatures = [ # sorted powers
+            "1", "2", "4", "8", "16", "23", "46", "128", "256", "125",
+            "0124", "0248", "0469", "1289", "13468", "23678", "35566",
+            "011237", "122446", "224588", "0145678", "0122579", 
+            "0134449", "0368888", "11266777", "23334455", "01466788",
+            "112234778", "234455668", "012356789", "0112344778",
+            "1234446788", "2244667999", "2345588999"
+        ]
+        num = ''.join(sorted(str(n)))
+        return num in signatures
+        
