@@ -12,6 +12,7 @@
 | [0874-backspace-string-compare](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
 | [0961-long-pressed-name](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0961-long-pressed-name) |
+| [1006-vowel-spellchecker](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -123,6 +124,7 @@
 | [0792-binary-search](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -286,6 +288,7 @@
 | [0389-find-the-difference](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/adityas-github/Leetcode-Problems-Daily/tree/master/1502-construct-k-palindrome-strings) |
